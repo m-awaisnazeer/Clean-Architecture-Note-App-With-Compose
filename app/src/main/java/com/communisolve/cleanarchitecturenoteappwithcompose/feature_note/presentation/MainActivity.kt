@@ -1,4 +1,4 @@
-package com.communisolve.cleanarchitecturenoteappwithcompose
+package com.communisolve.cleanarchitecturenoteappwithcompose.feature_note.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
